@@ -7,3 +7,4 @@ https://tradingcompetition.uchicago.edu/
 
 - Awarded 3rd Place
 - Total profits at end of live round: $26,850,723
+- Strategy based on Black Litterman model
